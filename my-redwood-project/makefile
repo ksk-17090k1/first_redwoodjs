@@ -28,6 +28,9 @@ g-layout:
 d-layout:
 	yarn rw d layout ${name}
 
+g-types:
+	yarn rw g types
+
 sb:
 	yarn rw storybook
 
