@@ -15,3 +15,4 @@ sb:
 
 g-cell:
 	yarn rw generate cell ${name}
+
