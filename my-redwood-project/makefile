@@ -12,3 +12,6 @@ g-sc:
 
 sb:
 	yarn rw storybook
+
+g-cell:
+	yarn rw generate cell ${name}
