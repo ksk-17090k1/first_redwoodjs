@@ -6,5 +6,9 @@ init:
 mig:
 	yarn rw prisma migrate dev
 
+# generate the CRUD
 g-sc:
-	yarn redwood generate scaffold ${arg}
+	yarn redwood generate scaffold ${model}
+
+sb:
+	yarn rw storybook
