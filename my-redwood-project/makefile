@@ -31,6 +31,12 @@ g-layout:
 d-layout:
 	yarn rw d layout ${name}
 
+# component
+g-comp:
+	yarn rw g component ${name}
+d-comp:
+	yarn rw d component ${name}
+
 # types
 g-types:
 	yarn rw g types
