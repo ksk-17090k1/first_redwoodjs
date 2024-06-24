@@ -45,4 +45,5 @@ g-types:
 sb:
 	yarn rw storybook
 
-
+set-auth:
+	yarn rw setup auth dbAuth
