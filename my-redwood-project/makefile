@@ -47,3 +47,6 @@ sb:
 
 set-auth:
 	yarn rw setup auth dbAuth
+
+g-auth:
+	yarn rw g dbAuth
